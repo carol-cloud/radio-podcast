@@ -1,0 +1,26 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: rgb(168, 177, 177);
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+#inputCurrentFrequency {
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+#rangeFrequencies {
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}

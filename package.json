@@ -1,0 +1,21 @@
+{
+  "name": "meu_projeto",
+  "version": "1.0.0",
+  "description": "Meu projeto da primeira aula interativa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "Live-server"
+
+  },
+  "keywords": [
+    "podcast",
+    "radio",
+    "javascript"
+  ],
+  "author": "Ana Carolina",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
